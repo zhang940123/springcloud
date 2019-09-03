@@ -3,6 +3,8 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/consumers" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-hello" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/service-hi" charset="UTF-8" />
   </component>
 </project>

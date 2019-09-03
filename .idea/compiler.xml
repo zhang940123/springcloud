@@ -7,9 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="consumers" />
+        <module name="service-hello" />
         <module name="eureka" />
-        <module name="service-hi" />
+        <module name="feign" />
         <module name="springcloud" />
+        <module name="service-hi" />
       </profile>
     </annotationProcessing>
   </component>
@@ -17,6 +19,8 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="consumers" options="-parameters" />
       <module name="eureka" options="-parameters" />
+      <module name="feign" options="-parameters" />
+      <module name="service-hello" options="-parameters" />
       <module name="service-hi" options="-parameters" />
     </option>
   </component>
