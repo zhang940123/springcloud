@@ -8,10 +8,10 @@
         <outputRelativeToContentRoot value="true" />
         <module name="consumers" />
         <module name="service-hello" />
+        <module name="microservice-simple-consumer-movie" />
         <module name="eureka" />
         <module name="server-user" />
         <module name="feign" />
-        <module name="springcloud" />
         <module name="service-hi" />
       </profile>
     </annotationProcessing>
@@ -21,6 +21,7 @@
       <module name="consumers" options="-parameters" />
       <module name="eureka" options="-parameters" />
       <module name="feign" options="-parameters" />
+      <module name="microservice-simple-consumer-movie" options="-parameters" />
       <module name="server-user" options="-parameters" />
       <module name="service-hello" options="-parameters" />
       <module name="service-hi" options="-parameters" />
