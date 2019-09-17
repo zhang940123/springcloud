@@ -17,7 +17,7 @@ public class HelloService {
          return "";
     }
     public String hierror(String name){
-        return "hey"+name+", there is some problem with hi page";
+        return "hey"+name+", there is some problem with  asdaadwaahi page";
     }
 
 

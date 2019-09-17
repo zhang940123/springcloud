@@ -9,6 +9,7 @@
         <module name="consumers" />
         <module name="service-hello" />
         <module name="eureka" />
+        <module name="server-user" />
         <module name="feign" />
         <module name="springcloud" />
         <module name="service-hi" />
@@ -20,6 +21,7 @@
       <module name="consumers" options="-parameters" />
       <module name="eureka" options="-parameters" />
       <module name="feign" options="-parameters" />
+      <module name="server-user" options="-parameters" />
       <module name="service-hello" options="-parameters" />
       <module name="service-hi" options="-parameters" />
     </option>
